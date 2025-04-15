@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
  // Tema 4 - Batalha Naval
- // Aluno Kauã de Sousa Ferreira
+ // Aluno Júlio Cesar Lemos Costa
  // Nível Mestre
 
 // Constantes para os tipos de células no tabuleiro
