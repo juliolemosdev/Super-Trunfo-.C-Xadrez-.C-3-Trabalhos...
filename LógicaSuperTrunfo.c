@@ -2,7 +2,7 @@
 
 // Desafio Super Trunfo - Países
 // Tema 2 - Comparação de Cartas
-// Aluno Kauã de Sousa Ferreira
+// Aluno Júlio Cesar Lemos Costa
 // Nível Aventureiro
 
 int main() {
