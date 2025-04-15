@@ -2,7 +2,7 @@
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
-// Aluno Kauã de Sousa Ferreira
+// Aluno Júlio Cesar Lemos Costa
 // Nível Mestre
 
 int main() {
