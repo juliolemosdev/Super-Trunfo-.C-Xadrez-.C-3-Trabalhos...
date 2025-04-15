@@ -1,7 +1,7 @@
 #include <stdio.h>
 
  // Tema 3 - Desafio Xadrez
- // Aluno Kauã de Sousa Ferreira
+ // Aluno Júlio Cesar Lemos Costa
  // Nível Aventureiro
 
 int main() {
